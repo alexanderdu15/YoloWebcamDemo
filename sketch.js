@@ -7,7 +7,6 @@
 ml5 Example
 Real time Object Detection using YOLO and p5.js
 === */
-
 let objectDetector;
 let status;
 let objects = [];
